@@ -1,0 +1,65 @@
+Restos do CSS
+
+/*
+ Centraliza o site acima de 960px
+@media all and (min-width: 1200px)
+{
+	body
+	{
+     width: auto;
+     margin: auto;
+	}}
+*/
+	/* Centraliza o site a baixo de 480px* ele fica no horizontal */
+	/*@media all and (max-width:480px)
+	{
+		nav{
+			height: 100%
+		}
+	nav li
+	{
+		display:inline;
+		padding: 10px;
+		margin: 0px;
+	}
+	
+	}
+*/
+
+=============================================
+<!--
+	<figure class="foto-legenda">
+		
+		<img src="casaofici.jpg" alt="Frete da casa"/>
+		<figcaption>
+			<h3>Sonho de todos animais</h3>
+			<p>Um novo spa</p>
+		</figcaption>
+     </figure>
+		
+		<figure class="foto-legenda">
+
+		
+		<img src="casaofci2.jpg" alt="Frete da casa"/>
+		<figcaption>
+			<h3>Sonho de todos animais</h3>
+			<p>Um novo spa</p>
+		</figcaption>
+</figure>
+
+	<figure class="foto-legenda">
+		
+		<img src="casaofici3.jpg" alt="Frete da casa"/>
+		<figcaption>
+			<h3>Sonho de todos animais</h3>
+			<p>Um novo spa</p>
+		</figcaption>
+	</figure>
+			
+		</section>	
+		
+		-->
+		
+		
+		
+		
